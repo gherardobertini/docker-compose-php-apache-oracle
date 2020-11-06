@@ -9,7 +9,7 @@ Put the content of the repo in your folder project
 
 ### Clone repository
 ```bash
-git clone https://github.com/gherry77/docker-compose-php-apache-oracle.git
+git clone https://github.com/gherardobertini/docker-compose-php-apache-oracle.git
 ```
 
 ### Run Docker Container
